@@ -16,7 +16,7 @@ public  class NetWorkCore {
     /// 返回数据 状态解析key
     public static var statusKey:String = "status"
     /// 用于返回数据解析的key
-    public static var dataKey:String = "data"
+    public static var dataKey:String = "result"
     /// 表示返回成功的状态码
     public static var successCode:Int = 0
 }
